@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/avail/avail/master/readme.svg)
+![](https://avail.eax.re/profile)
 
 <!--
 **avail/avail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
